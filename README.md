@@ -6,3 +6,4 @@ So for now it's only backend part I'll share frontend part later you have in /ba
 and run:
 `npm i`
 `docker compose up -d`
+`npm run start`
